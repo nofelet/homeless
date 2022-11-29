@@ -1,0 +1,8 @@
+contract_status_id,contract_status_description
+1,In progress
+2,Completed
+3,Partial - client rejection
+4,Partial - other
+5,Fail - client rejection
+6,Fail - other
+7,Partial - client absence
