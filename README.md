@@ -1,7 +1,10 @@
 # "homeless" repo
 This repository presents anonymized dataset and experiment results described in paper *"Rehabilitating Homeless: Dataset and Key Insights"* (arxiv link will follow).
+
 The dataset is based on more than 9 years' experience and data collection of **"Nochlezhka"** non-government organization helping homeless people.
+
 If you intend to use this dataset for whatever purposes, visit "Nochlezhka" at https://homeless.ru/en/how_to_help/ and donate for the noble cause of helping the homeless.
+
 What does this repo consist of?
 * *Appendix.pdf* - appendix to the original "Rehabilitating Homeless: Dataset and Key Insights" paper containing supplementary tables with detailed description of dataset features and NaN statistics featurewise.
 * *all_evens_anonymized.csv* - events (visits to humanitarian projects or entering social contracts) for each person (anonymized and represented by unique IDs) with dates.
